@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 4.375rem;
+    color: #7868e6;
+    margin-top: 100px;
+}
+
+.webd {
+    font-size: 1.5625rem;
+    color: #7868e6;
+    font-weight: normal;
+}
+
+h2{
+    font-family: 'Texturina', serif;
+    color: #b8b5ff;
+}
+
+h3 {
+    font-family: 'Texturina', serif;
+    color: #b8b5ff;
+}
+
+
+.top-container {
+    background-color: #e4fbff;
+    position: relative;
+    padding-top: 50px;
+}
+
+.middle-container{
+    background-color: white;
+}
+
+.bottom-container{
+    background-color: #b8b5ff;
+    padding: 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.profile-pic {
+    width: 15%;
+    margin-top: 50px;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.footer-link{
+    color: #7868e6;
+    margin: 30px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: white;
+}
+
+.hr{
+    border-style: dotted none none;
+    width: 3%;
+    border-width: 5px;
+    border-color: #edeef7;
+    margin: 50px auto;
+}
+
+.BUTTON_VHI {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #EDEEF7;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 8px;
+    background-color: #7868E6;
+    border: solid #337FED 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 20px auto;
+ }
